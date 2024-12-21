@@ -1,4 +1,4 @@
-# Stat Using Py
+# Statistics Using Python
 
 
 ## 🚀 프로젝트 소개
